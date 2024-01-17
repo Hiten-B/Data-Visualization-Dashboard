@@ -1,2 +1,6 @@
 # Data-Visualization-Dashboard
-This project focuses on developing an interactive and insightful dashboard using Power BI to track sales and analyze trends within a cotton industry dataset. Leveraging the flexibility and scalability of MongoDB, the dataset is seamlessly imported into Power BI, providing a dynamic and user-friendly interface.
+Experience a sophisticated sales and trends monitoring solution with this Power BI dashboard, seamlessly integrated with MongoDB Compass through ODBC configuration. The dataset, meticulously curated from MongoDB, fuels a comprehensive analysis of cotton sales and related trends. The robust connection facilitated by ODBC ensures real-time data availability for in-depth visualization and analysis. This project not only demonstrates technical prowess in data integration but also provides a powerful tool for informed decision-making in the intricate landscape of cotton sales.
+Explore the depths of your data, gain valuable insights, and elevate your decision-making process with this meticulously crafted MongoDB-Power BI integration.
+<img width="951" alt="Data overview in MongoDB Compass" src="https://github.com/Hiten-B/Data-Visualization-Dashboard/assets/121437409/32521038-e5bb-4d9e-ac78-0a57a977d7fd">
+<img width="960" alt="Data In MongoDB Compass" src="https://github.com/Hiten-B/Data-Visualization-Dashboard/assets/121437409/10ba7338-d2f9-40eb-9745-7c5bd79c2526">
+<img width="960" alt="Dashboard" src="https://github.com/Hiten-B/Data-Visualization-Dashboard/assets/121437409/e4a87fe1-a3fa-47e3-88c7-16947b295fe2">
